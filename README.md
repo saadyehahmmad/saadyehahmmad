@@ -109,9 +109,9 @@ I’m always eager to collaborate and learn from the community. Let’s build so
 
 ## 👀 Fun Interactive Animation
 Check out this interactive **Eyes Follow Mouse Cursor** animation I built!  
-👉 [Live Demo Here](https://<your-github-username>.github.io/eyes-animation)
+👉 [Live Demo Here](https://saadyehahmmad.github.io/eyes-animation)
 
-![Preview](https://github.com/<your-github-username>/eyes-animation/raw/main/preview.gif)
+![Preview](https://github.com/saadyehahmmad/eyes-animation/raw/main/preview.gif)
 
 
 ---
